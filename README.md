@@ -20,13 +20,6 @@ no Make sure you have the following installed:
 
 ## Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone <repository_url>
-cd <repository_name>
-```
-
 ### 2. Initialize DVC
 
 If not already initialized, run:
